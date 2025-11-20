@@ -1,0 +1,13 @@
+name = "Bare Bones x Refurbished Furniture"
+filename = "Bare Bones x Refurbished Furniture.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kqtVv2In/versions/NfmM2cRl/Bare%20Bones%20x%20Refurbished%20Furniture.zip"
+hash-format = "sha512"
+hash = "33181357e12607c94df95280f4f5730fd619113761223fcaf192409286f9ad228779e544ed1c69f56b0db8f3770fbbf9d635f0731c51656437aa0135a1acd1a6"
+
+[update]
+[update.modrinth]
+mod-id = "kqtVv2In"
+version = "NfmM2cRl"
