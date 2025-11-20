@@ -418,6 +418,10 @@ hash = "19f2c6f7f3c370a10d566b560bf9c2ed5c0c68c4eba9fc4d06ef7a5cfa394755"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-fabric-2101.1.12.jar"
+hash = "ddae4df96ea98b0fd24a337b6b06d5926ca36e3765883f5f51bfb66aefbbeee3"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
 metafile = true
