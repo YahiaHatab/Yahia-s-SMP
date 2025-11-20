@@ -1,0 +1,13 @@
+name = "Mixed Vertical Slabs"
+filename = "mixed-vertical-slabs-fabric-1-21-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b038cfb34a71d6d25378a2477a7887995d3e24b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6685226
+project-id = 1292361

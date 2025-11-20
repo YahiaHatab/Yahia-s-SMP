@@ -1,0 +1,13 @@
+name = "Vertical Slabs Fabric"
+filename = "verticalSlabs-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "666c362615bea63710491b94755c143e85bac8b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6740787
+project-id = 1288219

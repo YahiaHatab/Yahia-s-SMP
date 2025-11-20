@@ -293,8 +293,8 @@ hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
 metafile = true
 
 [[files]]
-file = "mods/anvil-never-too-expensive.pw.toml"
-hash = "6d1f37975f08f1385035b8857d99eceaa8f407dbb66991984501774667f45fb1"
+file = "mods/ante.pw.toml"
+hash = "578702da1ba25dfdca3268789021d668105986a63895e731d6ff26d6852488ef"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
 metafile = true
 
 [[files]]
@@ -413,13 +413,19 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "7fd859bf1cc60a0481daf805a8d1955510b1dd1581edc24baaa24e37c4462c83"
+metafile = true
+
+[[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
 hash = "19f2c6f7f3c370a10d566b560bf9c2ed5c0c68c4eba9fc4d06ef7a5cfa394755"
 metafile = true
 
 [[files]]
-file = "mods/ftb-ultimine-fabric-2101.1.12.jar"
-hash = "ddae4df96ea98b0fd24a337b6b06d5926ca36e3765883f5f51bfb66aefbbeee3"
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "a22332d16a31ad1b9d83edaec4875ec6363c1329e39bbf1c20964c29d7d70477"
+metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -539,16 +545,6 @@ metafile = true
 [[files]]
 file = "mods/ring-of-the-miner.pw.toml"
 hash = "05426b07956bf784b273efe6b4b6f12e8bbae4a668f223159e81148cfd68ff5a"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "65207bda8a3b52c87b45003de7bef7e741267fb0d8bb23226660b8ce9b2b69c4"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-ultimine.pw.toml"
-hash = "f8fe0972ffd2814cfbc4939759de13d4b895e1fb3c768b53a2e6e0bacedb8b70"
 metafile = true
 
 [[files]]
