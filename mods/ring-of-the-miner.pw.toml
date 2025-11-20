@@ -1,0 +1,13 @@
+name = "Ring of the Miner"
+filename = "RingOfMiner-Fabric-1.21.1-1.7.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LgkFnR3i/versions/bPWvYmzv/RingOfMiner-Fabric-1.21.1-1.7.11.jar"
+hash-format = "sha512"
+hash = "18ff6161dd8df76b603f08ca91cead96b452b057276a3adaae789b85382436513667f9ca0e50d325878fecab5395a582f185e1d549bf3d8050ab7390c0d03839"
+
+[update]
+[update.modrinth]
+mod-id = "LgkFnR3i"
+version = "bPWvYmzv"

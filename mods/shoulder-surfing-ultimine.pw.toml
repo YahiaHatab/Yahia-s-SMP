@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Ultimine"
+filename = "shouldersurfingultimine-1.0.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2p6cOvlM/versions/Y9IEkPMz/shouldersurfingultimine-1.0.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "d92ad5055dc37967db7da730c28b55d61364f6989ddd3d8adac789f09ffb7d9ff9295efcd3f05cd8f561e28363f01a63c91ba8d1e29e084bc0400e8eac37a1eb"
+
+[update]
+[update.modrinth]
+mod-id = "2p6cOvlM"
+version = "Y9IEkPMz"
