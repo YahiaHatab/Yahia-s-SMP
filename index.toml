@@ -1,278 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "FinalFiles/FinalFiles/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "FinalFiles/mods/AnvilNeverTooExpensive-fabric-1.21+-1.2.1.jar"
-hash = "abf8cf7fe66eab5b2c2ff5cfaad091f1cb73028fb8ffb93f7edef3805bf4a631"
-
-[[files]]
-file = "FinalFiles/mods/ArmorStatues-v21.1.0-1.21.1-Fabric.jar"
-hash = "9fe18588591728849fcf0c30db470c9213ae1e9c2c0e112efc1dc406bcbf5ab7"
-
-[[files]]
-file = "FinalFiles/mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
-hash = "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7"
-
-[[files]]
-file = "FinalFiles/mods/EasyAnvils-v21.1.0-1.21.1-Fabric.jar"
-hash = "14e40cafffb4bbe878a3faa59022d0fd2658b5337656cb96f4925d42d10f2f2b"
-
-[[files]]
-file = "FinalFiles/mods/EasyMagic-v21.1.4-1.21.1-Fabric.jar"
-hash = "14b4837b5ec8cff7e7fdaa8f141498bfae7224a251c987fab77cee7ec55da157"
-
-[[files]]
-file = "FinalFiles/mods/EchoChest-v21.1.1-1.21.1-Fabric.jar"
-hash = "3f7770fd8ca10c3d0a8768975deffd6a87fcb99cbb1cb1a522aeff9acfc32e02"
-
-[[files]]
-file = "FinalFiles/mods/FallingTree-1.21.1-1.21.1.11.jar"
-hash = "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
-
-[[files]]
-file = "FinalFiles/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
-hash = "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
-
-[[files]]
-file = "FinalFiles/mods/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar"
-hash = "9be5ee5fabcf249f59518599c9d0dcd3f748a3e07a1ac553cd53146e17364c01"
-
-[[files]]
-file = "FinalFiles/mods/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar"
-hash = "67e9b96383a76cb8f011562d67cbd408cca7d85cb199db61cec1704869414fe2"
-
-[[files]]
-file = "FinalFiles/mods/RingOfMiner-Fabric-1.21.1-1.7.11.jar"
-hash = "e93d1044f20b69b83a2a1151f3e6ca2d691257ca29c02c2ef9a2e11d0d868f73"
-
-[[files]]
-file = "FinalFiles/mods/ShoulderSurfing-Fabric-1.21.1-4.15.1.jar"
-hash = "1fe0d7064c8efe36ac74aa45181faa7369fd7c25a3f23e7833d5c0681f61e2d2"
-
-[[files]]
-file = "FinalFiles/mods/Terrastorage-1.2.7+1.21-1.21.1.jar"
-hash = "c0c044067bdb6540605c017149839530d884db3ca0c91ae656f1389e74a57ba3"
-
-[[files]]
-file = "FinalFiles/mods/TradingPost-v21.1.1-1.21.1-Fabric.jar"
-hash = "5cbf77f55a27e312dd7e56cdc80f2fd7319f2fba8189c69575ff01428d9da4c0"
-
-[[files]]
-file = "FinalFiles/mods/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
-hash = "198e9b3e7a86718354319dadeb26df71cd4d55163f21b826baeb4ccafff54a1d"
-
-[[files]]
-file = "FinalFiles/mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
-hash = "a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4"
-
-[[files]]
-file = "FinalFiles/mods/amendments-1.21-2.0.9-fabric.jar"
-hash = "d53a763437499ba5b3f9560f8f3436e54f782db5128071df8f0fcfd04694f970"
-
-[[files]]
-file = "FinalFiles/mods/appleskin-fabric-mc1.21-3.0.6.jar"
-hash = "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2"
-
-[[files]]
-file = "FinalFiles/mods/architectury-13.0.8-fabric.jar"
-hash = "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
-
-[[files]]
-file = "FinalFiles/mods/artifacts-fabric-13.1.0.jar"
-hash = "e74ff7453e374e0bd02fdcddacb913f6fd9fb6c53afa29e7c321b61a8df0d368"
-
-[[files]]
-file = "FinalFiles/mods/balm-fabric-1.21.1-21.0.53.jar"
-hash = "f34ddaeb29314832e16f1404f928a5a0a66c96e7ff11d5e2fa604657d2116d09"
-
-[[files]]
-file = "FinalFiles/mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar"
-hash = "e1f47def8294fbbd75270e17cbc1bfcfed295049c7daca3d52dd73af2749b296"
-
-[[files]]
-file = "FinalFiles/mods/cardinal-components-api-6.1.2.jar"
-hash = "10d8c5167cf1c794cda74c5a49279bb087db04749f83651062d594d2a242daa2"
-
-[[files]]
-file = "FinalFiles/mods/carryon-fabric-1.21.1-2.2.2.11.jar"
-hash = "803d60e5938ad6ec67bdfdf09e6c718eae3265f63e0dbdd2dfdd919c30f5524d"
-
-[[files]]
-file = "FinalFiles/mods/chat_heads-0.14.2-fabric-1.21.jar"
-hash = "40d0aba503490daf09c855a3e7610b7fb163eef6635fcce5ef7b2c25fda1536e"
-
-[[files]]
-file = "FinalFiles/mods/cloth-config-15.0.140-fabric.jar"
-hash = "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
-
-[[files]]
-file = "FinalFiles/mods/coroutil-fabric-1.21.1-1.3.8.jar"
-hash = "d4664c92c17ce9608ab4b36f760b2e988ae2de1660d70d746badb3ed5a033e30"
-
-[[files]]
-file = "FinalFiles/mods/darksleep-fabric-1.21.1-1.0.1.jar"
-hash = "23ecce141f0c34c24e7450959d3ac7c4bc7a786c55f1595668c360e4462a2644"
-
-[[files]]
-file = "FinalFiles/mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
-hash = "bdb4f294f968b0e5bb75fe4b9bfe65563add01da2e34df81ba6c65fb7e77dc9c"
-
-[[files]]
-file = "FinalFiles/mods/doubleslabs-fabric-1.21.1-0.3.0.jar"
-hash = "24f0d560169c51a07c81028299bd56d462b86d90f6e7167d55963d4a88930b29"
-
-[[files]]
-file = "FinalFiles/mods/fabric-api-0.116.7+1.21.1.jar"
-hash = "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
-
-[[files]]
-file = "FinalFiles/mods/fence_on_slab-fabric-1.21-1.0.0.jar"
-hash = "8f501d3d60fcb18a7d1a3e9f5190b8848acd4a13376d6009f80a68801c27cf21"
-
-[[files]]
-file = "FinalFiles/mods/ferritecore-7.0.2-hotfix-fabric.jar"
-hash = "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
-
-[[files]]
-file = "FinalFiles/mods/geckolib-fabric-1.21.1-4.8.2.jar"
-hash = "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04"
-
-[[files]]
-file = "FinalFiles/mods/hole_filler_mod_1.3.0-fabric-mc_1.21.1.jar"
-hash = "c0fc2ca7d71b954595d1618227701a8f9c16d2f880506f2d87be96f478d77c04"
-
-[[files]]
-file = "FinalFiles/mods/indium-1.0.35+mc1.21.jar"
-hash = "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8"
-
-[[files]]
-file = "FinalFiles/mods/ironbookshelves-1.21.1-1.4.11-fabric.jar"
-hash = "37fab5a09357a976a687ce9844007f2fc516e1b5f120fdc6cca4e63440b0107f"
-
-[[files]]
-file = "FinalFiles/mods/jamlib-fabric-1.3.5+1.21.1.jar"
-hash = "889b33cec23db13b4442f934830659a3b0d2e72ca8c481159b94365b6e0968fc"
-
-[[files]]
-file = "FinalFiles/mods/jei-1.21.1-fabric-19.25.1.328.jar"
-hash = "03fb257a50fa528dff69995cdc1a6ffd0ec61593707ee74342f57e8491b36242"
-
-[[files]]
-file = "FinalFiles/mods/journeymap-fabric-1.21.1-6.0.0-beta.52.jar"
-hash = "b12b2ee7cd1031c205b5e3ead4ba9f02f1028a97feadd15d36b19c442b0745bc"
-
-[[files]]
-file = "FinalFiles/mods/lithium-fabric-0.15.0+mc1.21.1.jar"
-hash = "d5fe8d3195eac5b2cdffa00ed7e3077560c64d2064b88221cdea0d9ed05004b6"
-
-[[files]]
-file = "FinalFiles/mods/mcw-bridges-3.1.0-mc1.21.1fabric.jar"
-hash = "aaa69b2e407c06217fc4dd7485ca7dca840431843e9ae94936748d1d462b18ff"
-
-[[files]]
-file = "FinalFiles/mods/mcw-doors-1.1.2-mc1.21.1fabric.jar"
-hash = "ca3489587605c2865ea0083cea64cb12e8208c0a7ec024219c215eb57c19e110"
-
-[[files]]
-file = "FinalFiles/mods/mcw-furniture-3.4.0-mc1.21.1fabric.jar"
-hash = "7b6c2bd8eb3609a04639480911e5db3b5020e252df07f397de8586984a40f121"
-
-[[files]]
-file = "FinalFiles/mods/mcw-lights-1.1.2-mc1.21.1fabric.jar"
-hash = "20fa8025ffced59d9a83066825f67788163016aa0d39643e023225b42cf57542"
-
-[[files]]
-file = "FinalFiles/mods/mcw-mcwholidays-1.1.1-mc1.21.1fabric.jar"
-hash = "15c1f5ede47b942f5cb7d4f02c5d16395eecaff3e7304f1a92393e007b3854e0"
-
-[[files]]
-file = "FinalFiles/mods/mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar"
-hash = "ee1f81f5490bca160ace90749cf98a0513156d82801f4c68af5acf88c90aa898"
-
-[[files]]
-file = "FinalFiles/mods/mcw-paintings-1.0.5-1.21.1fabric.jar"
-hash = "b153e98f8ae89f3dc9e71055c1964f5500fd87dbb32b155fd83fdb5a49821b9a"
-
-[[files]]
-file = "FinalFiles/mods/mcw-stairs-1.0.1-1.21.1fabric.jar"
-hash = "fe5f9010213abbdbe128e886b92fe43aa3d1e8b3b96a673c2288ecc2347d9456"
-
-[[files]]
-file = "FinalFiles/mods/mcw-windows-2.4.0-1.21.1fabric.jar"
-hash = "8a07820ec63e5799cbc24fb67b09b8d1a3fe7b47435568f94999bdcd158defb3"
-
-[[files]]
-file = "FinalFiles/mods/mixed-vertical-slabs-fabric-1-21-1.0.0.jar"
-hash = "9eeda676d869b70875e8c61c800128debc62efd8bde406f3678af62126507f16"
-
-[[files]]
-file = "FinalFiles/mods/monolib-fabric-1.21.1-2.1.0.jar"
-hash = "bb3ef8b22386952a38cdecac57073605dd2e7f2f59a8352a3a5d1b5e6c10bec2"
-
-[[files]]
-file = "FinalFiles/mods/moonlight-1.21-2.26.5-fabric.jar"
-hash = "2c0f1d61d34180a0bf727e2cea656cb6313af4a986ff73c1d875a2325a8e06a5"
-
-[[files]]
-file = "FinalFiles/mods/shouldersurfingultimine-1.0.1+1.21.1-fabric.jar"
-hash = "ccf27753e4ff4fafafa468aeee252a114e88961d6d44a0acbf9ad3db7ff0e20d"
-
-[[files]]
-file = "FinalFiles/mods/sodium-fabric-0.6.13+mc1.21.1.jar"
-hash = "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
-
-[[files]]
-file = "FinalFiles/mods/spark-1.10.109-fabric.jar"
-hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
-
-[[files]]
-file = "FinalFiles/mods/supplementaries-1.21-3.4.20-fabric.jar"
-hash = "bbfab9a256e3c167e27746b72bb2b4b5683554174464e475a4867260bceceec8"
-
-[[files]]
-file = "FinalFiles/mods/trade-cycling-fabric-1.21.1-1.0.18.jar"
-hash = "239fb8faaf50dcbf904bd77cd8b7e8b821e98b3352f2cdb9ce4af9043ca0dbbb"
-
-[[files]]
-file = "FinalFiles/mods/trashslot-fabric-1.21.1-21.1.4.jar"
-hash = "4b06b475c969fd7b49a73035443488b401e71bcaba134470fdeb40d3575600df"
-
-[[files]]
-file = "FinalFiles/mods/trinkets-3.10.0.jar"
-hash = "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
-
-[[files]]
-file = "FinalFiles/mods/u_framework-1.1.0+mc1.21.jar"
-hash = "e2191f868a07a07c1cec55571f52a67c2fc6f4459740649ae0119c284f53ddae"
-
-[[files]]
-file = "FinalFiles/mods/verticalSlabs-1.1.0.jar"
-hash = "b3b2ee51288e8703ec6bf7e8c51e6a91be9952eaafb2f910c81d2c07137e1c56"
-
-[[files]]
-file = "FinalFiles/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "FinalFiles/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "FinalFiles/packwiz.json"
-hash = "8a629df54ef1ca7b535a3d0819a61b443205c8eaf439c11fe87dd1e001a27cf3"
-
-[[files]]
-file = "FinalFiles/resourcepacks/Bare Bones x Refurbished Furniture.zip"
-hash = "af52dad6a2a189992e497068103bf8c98acc69e755f8a6cc625757d5d2f979f2"
-
-[[files]]
-file = "FinalFiles/resourcepacks/[Moonsu] Better GUI for T.B. 2.0 1.21.X.zip"
-hash = "9065eeaee3676291c7026316f5202b2125707469a8a699e2ca1b451e8ecc987f"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
@@ -323,6 +51,11 @@ hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
@@ -353,6 +86,11 @@ hash = "74b82158cadd5d72b6f1c706aa7f190c4e791681472fc98735cec30acf622535"
 metafile = true
 
 [[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
+hash = "6a89cf951df2610ceaf07877657de5ae63bf3bc67cc94f5d802c9cc78114fbf9"
+metafile = true
+
+[[files]]
 file = "mods/darksleep.pw.toml"
 hash = "ce3aea75c10c6590dc2655c3095e1a0fc69ac3adf01793cfb9dffe4a727795d0"
 metafile = true
@@ -380,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/echo-chest.pw.toml"
 hash = "713b1e22a35b604ae56b3b55dd957276bcb611fce663c415b89bdd078f38ac21"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "c61f4a59a8b5fc28c0c95c47db34c1867f25d0080a06593c41df955e5812f28f"
 metafile = true
 
 [[files]]
@@ -601,10 +344,6 @@ metafile = true
 file = "mods/visual-workbench.pw.toml"
 hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/bare-bones-x-refurbished-furniture.pw.toml"
