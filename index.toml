@@ -438,6 +438,11 @@ hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
 file = "mods/iron-bookshelves.pw.toml"
 hash = "ab4d1c80575e75ebeb68c14b2aff570070ffe5fb046a2aff776ef51aae4e1c49"
 metafile = true
