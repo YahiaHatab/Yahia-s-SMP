@@ -1,0 +1,13 @@
+name = "DarkSleep - RPG Sleep Percentage"
+filename = "darksleep-fabric-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81c3403ba25ff6c5422deafc015ed807848027da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741455
+project-id = 1106281

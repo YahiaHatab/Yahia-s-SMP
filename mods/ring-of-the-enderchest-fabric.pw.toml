@@ -1,0 +1,13 @@
+name = "Ring of the Enderchest [FABRIC]"
+filename = "RingOfEnderchest-Fabric-1.21.1-1.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e2bf3466dc0de3eecb3744a0094d25c4298972f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5615168
+project-id = 376224
