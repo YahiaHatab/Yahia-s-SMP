@@ -1,0 +1,13 @@
+name = "y"
+author = "YahiaH"
+version = "y"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a353eb561230b8fdb0a066ae3f57c6cadc6f23ab0645e5a7793e4c91d1ef3bc2"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.21.1"
