@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "all-of-te-lights.pw.toml"
+hash = "7a4b4e89cdefe23a31d34f7ae52e1e34279fae1078f5fd6b4483db66fdac79a4"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
@@ -296,8 +301,8 @@ hash = "7ceada6e6fdfb868c17a2d2212cb3b494150fa5717d653605464176f3e4c65de"
 metafile = true
 
 [[files]]
-file = "mods/ring-of-the-miner.pw.toml"
-hash = "05426b07956bf784b273efe6b4b6f12e8bbae4a668f223159e81148cfd68ff5a"
+file = "mods/ring-of-the-enderchest-fabric.pw.toml"
+hash = "02e36c927b764dd9f70e72983e052488854ee02045a94a6c34df30616748d191"
 metafile = true
 
 [[files]]
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "40c60c458184ab9d15fdcc4c610607eca60a1557bbf484fad2942a803d75e0ec"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "fb543e76311a6ae078aa9e5b56c93c2a3b3fba34900809d024c61900db3acf2e"
 metafile = true
 
 [[files]]
